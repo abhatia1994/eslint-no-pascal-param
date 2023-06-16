@@ -1,0 +1,17 @@
+{
+  "name": "@arbhatia/eslint-plugin-no-pascal-param",
+  "version": "1.0.0",
+  "description": "Custom eslint plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  },
+  "dependencies": {
+    "eslint": "^8.42.0"
+  }
+}
