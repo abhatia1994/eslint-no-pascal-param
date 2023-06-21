@@ -1,4 +1,3 @@
-// no-empty-catch.js
 module.exports = {
   meta: {
       messages: {
